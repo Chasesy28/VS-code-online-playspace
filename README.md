@@ -1,4 +1,7 @@
-# VS-code-online-playspace
+# Warning this is an archived project and may not work as expected or at all)
+
+
+# VS-code-online-playspace 
 This is sillly (made at tam high)
 
 ## Running the Snake game (pygame)
